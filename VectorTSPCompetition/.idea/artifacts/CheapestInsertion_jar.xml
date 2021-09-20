@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CheapestInsertion:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/</output-path>
+    <root id="archive" name="CheapestInsertion.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/manifests/CheapestInsertion/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="VectorTSPCompetition" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/jbotsim/jbotsim-all/1.2.0/jbotsim-all-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/jbotsim/jbotsim-extras-swing/1.2.0/jbotsim-extras-swing-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/jbotsim/jbotsim-ui-swing/1.2.0/jbotsim-ui-swing-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/jbotsim/jbotsim-core/1.2.0/jbotsim-core-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/jbotsim/jbotsim-serialization-common/1.2.0/jbotsim-serialization-common-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/jbotsim/jbotsim-ui-common/1.2.0/jbotsim-ui-common-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/jbotsim/jbotsim-extras-common/1.2.0/jbotsim-extras-common-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/jbotsim/jbotsim-icons/1.2.0/jbotsim-icons-1.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

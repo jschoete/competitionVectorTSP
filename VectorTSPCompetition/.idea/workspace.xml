@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BranchAndBound:jar" />
+      <artifact name="CheapestInsertion:jar" />
+      <artifact name="Flip:jar" />
+      <artifact name="Instances:jar" />
+      <artifact name="NearestNeighbor:jar" />
+      <artifact name="RandomInsertion:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65aadac2-5da5-43aa-97a8-7aabd4c7ea09" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../etsp/.idea/etsp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/.idea/libraries/io_jbotsim_jbotsim_all_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/article.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/article.bbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/article.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/article.blg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/article.dvi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/article.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/article.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/article.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/article.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/build/article.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/build/article.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/build/article.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/build/article.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/convex-hull.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/convex-hull.fig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/convex-hull.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/drone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/far.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/far.fig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/far.fig.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/far.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/path.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/path.fig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/path.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/tsp.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/tsp.fig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/tsp.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/vector.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/vector.fig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/vector.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/figs/wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/segeval.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/article/segeval.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/.idea/artifacts/stageM2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/.idea/artifacts/unnamed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/.idea/libraries/release.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/.idea/libraries/src.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/100testingquads.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/BFS_scores.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/BFS_scores_ordered.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/BFS_scores_ordered_pauljr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/code.eml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/est_costs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/hs_err_pid15035.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/hs_err_pid15107.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/hs_err_pid32043.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/images/check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/images/cherry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/images/drone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/artifacts/stageM2_jar/stageM2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/Clock$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/Clock$ActionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/Clock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/DefaultNodeScheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/Link$Mode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/Link$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/Link.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/LinkResolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/MessageEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/NodeScheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/Point3D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/Topology$RefreshMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/Topology.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/_Properties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/event/ClockListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/event/ConnectivityListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/event/MessageListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/event/MovementListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/event/PropertyListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/event/SelectionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/event/StartListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/event/TopologyListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/ui/CommandListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/ui/JNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/ui/JTopology$EventHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/ui/JTopology.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/ui/JViewer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/ui/JViewer$BarType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/ui/JViewer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/ui/circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/ui/painting/BackgroundPainter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/ui/painting/DefaultBackgroundPainter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/ui/painting/DefaultNodePainter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/ui/painting/LinkPainter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsim/ui/painting/NodePainter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/Algorithms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/Connectivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/JConsole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/Tikz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/dot/Import.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/dot/test.dot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/messaging/AsyncMessageEngine$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/messaging/AsyncMessageEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/messaging/DelayMessageEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/topology/TopologyGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/tvg/EMEGPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/tvg/EMEGTopology.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/tvg/EMTVGBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/tvg/TVG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/tvg/TVGPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/tvg/TVGRandomPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/JBotSim/jbotsimx/tvg/TVLink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/TSP/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/TSP/TSP2Opt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/TSP/TSPBestOfAll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/TSP/TSPNearestNeighbour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/TSP/TSPRandomInsertion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/cherry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/drone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/quad_BFS/BFS_test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/quad_BFS/Check2BFS_quad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/quad_BFS/PhaseSpaceNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/quad_BFS/PhaseSpaceNode2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/quad_BFS/RunOnCalcul1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/quad_BFS/SortListFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/quad_estimation/Estimation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/quad_estimation/Estimation_test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/quad_estimation/Temp_get_testex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/stage/Check2BFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/stage/CheckpointAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/stage/Cherry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/stage/Competition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/stage/Drone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/stage/Intersection2BFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/stage/PointToPointAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/stage/VectorNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/stage/check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/stage/cherry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/code/stage/drone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/Clock$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/Clock$ActionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/Clock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/DefaultNodeScheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/Link$Mode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/Link$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/Link.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/LinkResolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/MessageEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/NodeScheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/Point3D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/TSP/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/TSP/TSP2Opt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/TSP/TSPBestOfAll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/TSP/TSPNearestNeighbour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/TSP/TSPRandomInsertion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/TSP/TSP_lowerbound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/TSP/TSP_solver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/Topology$RefreshMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/Topology.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/_Properties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/cherry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/drone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/event/ClockListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/event/ConnectivityListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/event/MessageListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/event/MovementListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/event/PropertyListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/event/SelectionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/event/StartListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/event/TopologyListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/quad_BFS/BFS_test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/quad_BFS/Check2BFS_quad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/quad_BFS/PhaseSpaceNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/quad_BFS/PhaseSpaceNode2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/quad_BFS/PhaseSpaceNode3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/quad_BFS/RunOnCalcul1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/quad_BFS/SortListFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/quad_estimation/Estimation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/quad_estimation/Estimation_test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/quad_estimation/NPcompleteproof.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/quad_estimation/TODO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/quad_estimation/Temp_get_testex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/stage/Check2BFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/stage/CheckBiAStar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/stage/CheckpointAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/stage/Cherry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/stage/Competition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/stage/Drone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/stage/ETSP_neq_VR_TSP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/stage/Intersection2BFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/stage/PointToPointAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/stage/VectorNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/ui/CommandListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/ui/JNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/ui/JTopology$EventHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/ui/JTopology.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/ui/JViewer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/ui/JViewer$BarType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/ui/JViewer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/ui/circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/ui/painting/BackgroundPainter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/ui/painting/DefaultBackgroundPainter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/ui/painting/DefaultNodePainter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/ui/painting/LinkPainter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/ui/painting/NodePainter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/video_jbotsim/CompetitionBis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/video_jbotsim/DroneBis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/video_jbotsim/JBackgroundPainterHD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/video_jbotsim/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/video_jbotsim/VideoHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/video_jbotsim/target.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/etsp/video_jbotsim/transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/production/Cherry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/production/Competition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/production/Drone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/production/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/production/TSP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/production/Tree$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/production/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/production/VectorNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/production/cherry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/production/drone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/production/jbotsim/ui/circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/production/production/jbotsimx/dot/test.dot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_100x100/BFS_scores.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_100x100/trajectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/BFS_scores.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/BFS_scores3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/BFS_scores_ordered.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/BFS_scores_ordered_pauljr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/est_costs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/est_costs2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/est_costs2bis_for_plot.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/est_costs_for_plot.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/est_costs_ordered.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/plot_rough.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/plot_rough2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/plot_rough2bis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/plot_rough2bis_ordered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/plot_smooth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/plot_smooth2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/plot_smooth2bis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/trajectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/violin_plot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/violin_plot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/violin_plot2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_200x200/violin_plot_bis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_no_bbox/example_cost_19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/100x100_no_bbox/example_cost_19_trajectory.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/25x25_50x50/BFS_scores.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/25x25_50x50/trajectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/50x50_100x100/BFS_scores.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/out/resultsBFS/50x50_100x100/trajectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/TSP/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/TSP/TSP2Opt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/TSP/TSPBestOfAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/TSP/TSPNearestNeighbour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/TSP/TSPRandomInsertion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/TSP/TSP_lowerbound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/TSP/TSP_solver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/quad_BFS/BFS_test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/quad_BFS/Check2BFS_quad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/quad_BFS/PhaseSpaceNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/quad_BFS/PhaseSpaceNode2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/quad_BFS/PhaseSpaceNode3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/quad_BFS/RunOnCalcul1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/quad_BFS/SortListFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/quad_estimation/Estimation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/quad_estimation/Estimation_test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/quad_estimation/NPcompleteproof.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/quad_estimation/TODO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/quad_estimation/Temp_get_testex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/stage/Check2BFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/stage/CheckBiAStar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/stage/CheckpointAlgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/stage/Cherry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/stage/Competition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/stage/Drone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/stage/ETSP_neq_VR_TSP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/stage/Intersection2BFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/stage/PointToPointAlgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/stage/VectorNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/video_jbotsim/CompetitionBis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/video_jbotsim/DroneBis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/video_jbotsim/JBackgroundPainterHD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/video_jbotsim/Target.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/video_jbotsim/VideoHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/video_jbotsim/target.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/src/video_jbotsim/transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/stageM2.userlibraries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/code/trajectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/hs_err_pid11171.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/hs_err_pid12332.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/hs_err_pid12435.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/hs_err_pid18971.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/hs_err_pid19131.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/hs_err_pid25801.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/hs_err_pid26075.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/hs_err_pid26840.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/hs_err_pid27488.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/hs_err_pid28476.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/hs_err_pid5277.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/hs_err_pid7553.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/log.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/log.dvi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/log.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/log.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/log.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/log.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/CheckpointIntersection1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/CheckpointIntersection2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/CheckpointIntersection3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/alternating.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/alternating1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/dubinspath.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/eight-flower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/eight-sequence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/eight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/eight1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/eight2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/eight3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_brouillon.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_brouillon.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_brouillon.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_brouillon.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_brouillon.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_brouillon.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_brouillon.tex.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_brouillon.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_final.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_presentation.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_presentation.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_presentation.nav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_presentation.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_presentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_presentation.snm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_presentation.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_presentation.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_presentation.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/memoire_version1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/perfect-eight-flower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/memoire/universite_bordeaux.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/papers/ETSP_NP_complete.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/papers/Implementation_PTAS_ETSP.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/papers/alternating_algorithm.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/papers/bead-tiling_algoritm.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/papers/point-to-point_minimum_path.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/papers/ptas_schultes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/papers/sujets-2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/papers/tspn_Dumitrescu_Mitchell.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/plot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/q.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/red_doc_sc/.~lock.Agrégation dans les graphes dynamiques.pdf#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/red_doc_sc/Agrégation dans les graphes dynamiques.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/red_doc_sc/Strategies_for_data_aggregation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/red_doc_sc/counterexample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/red_doc_sc/doc_Jason_Schoeters.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/red_doc_sc/doc_Jason_Schoeters.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/red_doc_sc/doc_Jason_Schoeters.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/red_doc_sc/doc_Jason_Schoeters.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/red_doc_sc/doc_Jason_Schoeters.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/red_doc_sc/doc_Jason_Schoeters.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/red_doc_sc/main-data-aggregation-QB-and-ST.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/red_doc_sc/nonoptimal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/red_doc_sc/optimal_or_nofinish.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/red_doc_sc/simple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/red_doc_sc/working_aggregation_example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etsp/results_2chain.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vtsp" beforeDir="false" afterPath="$PROJECT_DIR$/../vtsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1yOgDuQYUTnxsuD7Fd1RAYk5IeQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3770115" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/src/competition/jars" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/artifacts" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65aadac2-5da5-43aa-97a8-7aabd4c7ea09" name="Default Changelist" comment="" />
+      <created>1632127931043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632127931043</updated>
+      <workItem from="1632127934747" duration="4098000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="691" y="209" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1632141828888">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state x="691" y="209" key="#com.intellij.ide.util.TreeClassChooserDialog/67.24.1853.1056@67.24.1853.1056" timestamp="1632141828888" />
+    <state x="622" y="148" key="SettingsEditor" timestamp="1632141943294">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state x="622" y="148" key="SettingsEditor/67.24.1853.1056@67.24.1853.1056" timestamp="1632141943294" />
+    <state x="688" y="433" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1632128706133">
+      <screen x="67" y="24" width="1853" height="1056" />
+    </state>
+    <state x="688" y="433" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.24.1853.1056@67.24.1853.1056" timestamp="1632128706133" />
+  </component>
+</project>
